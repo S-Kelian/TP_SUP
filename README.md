@@ -1,1 +1,4 @@
-# TP_SUP
+# TP Apprentissage supervisé
+
+Sebaïci Kelian
+Zenou-Truchot Théophile
